@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these slides or code, please cite them as below."
+title: "Multiverse Analysis: Examining How Conclusions Vary Across Defensible Analytic Decisions (APA 2026 training session)"
+type: software
+authors:
+  - family-names: Buchanan
+    given-names: Erin M.
+date-released: 2026-10-13
+repository-code: "https://github.com/doomlab/apa-2026-multiverse"
+url: "https://github.com/doomlab/apa-2026-multiverse"
+abstract: >-
+  Slides and code for a training session on multiverse analysis: identifying
+  researcher degrees of freedom, constructing a principled multiverse,
+  summarizing and visualizing results, and interpreting robustness across
+  alternative analytic decisions, with demonstrations in R using tidyverse,
+  specr, and multiverse.
+keywords:
+  - multiverse analysis
+  - specification curve
+  - researcher degrees of freedom
+  - robustness
+  - open science

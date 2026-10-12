@@ -28,6 +28,10 @@ This renders the HTML slides and prints the PDF. The slides scroll when content 
 
 The data are simulated, so no outside data files are needed. To regenerate the null simulation (takes a minute or two), run `Rscript code/null_sim.R` from this folder.
 
+## Citation
+
+See `CITATION.cff`, or use the "Cite this repository" button on GitHub.
+
 ## Image credits
 
 `images/` contains screenshots of journal article pages and figures from published papers, shown for teaching. See the original papers for reuse terms.
